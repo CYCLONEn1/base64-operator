@@ -22,7 +22,7 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     implementation 'org.springframework.boot:spring-boot-starter-actuator'
-    implementation 'com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:2025.0.0.0'
+    implementation 'com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:2025.1.0.0'
 }
 
 tasks.named('test') {
